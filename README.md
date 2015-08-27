@@ -15,7 +15,7 @@ our player view.
 # java
  @Bind(R.id.water_view) AcquaView view;
 
-## XML Usage
+# XML Usage
 <tn.amineghabi.acquawatchface.AcquaView
         android:id="@+id/water_view"
         android:layout_width="match_parent"
