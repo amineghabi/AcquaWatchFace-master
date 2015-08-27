@@ -14,7 +14,7 @@ import butterknife.ButterKnife;
  */
 public class WatchfaceActivity extends Activity {
 
-    @Bind(R.id.water_view)
+    @Bind(R.id.acqua_view)
     AcquaView view;
 
     @Override
