@@ -13,7 +13,7 @@ our player view.
 
 
 # java
- @Bind(R.id.water_view) AcquaView view;
+ @Bind(R.id.acqua_view) AcquaView view;
 
 ## XML Usage
 
