@@ -11,8 +11,10 @@ Android wear watchface
 You define the AcquaView on you XML file and you get it programmatically.
 
 
-# java
- @Bind(R.id.acqua_view) AcquaView view;
+```java
+@Bind(R.id.acqua_view) AcquaView view;
+```
+
 
 ## XML Usage
 
