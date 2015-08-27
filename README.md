@@ -32,7 +32,7 @@ You should not forget to inject view in your Activity by adding this line ```But
 
 # Design Owner
 
-Design is created by [Amin Ghabi] (amineghabi.parseapp.com)
+Design is created by [Amin Ghabi] (https://amineghabi.parseapp.com)
 
 License
 --------
