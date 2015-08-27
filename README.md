@@ -19,7 +19,7 @@ our player view.
 
 ```xml
 <tn.amineghabi.acquawatchface.AcquaView
-        android:id="@+id/water_view"
+        android:id="@+id/acqua_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 ```
