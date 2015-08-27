@@ -17,6 +17,7 @@ our player view.
 
 ## XML Usage
 
+```xml
 <androgeek.material.library.MaterialMusicPlayerView
         android:id="@+id/mpv"
         android:layout_width="250dp"
@@ -27,6 +28,7 @@ our player view.
         app:progressLoadedColor = "#00815E"
         app:progressEmptyColor = "#20FFFFFF"
         app:cover = "@drawable/mycover"/>
+```
 
 # Libraries Used
 
