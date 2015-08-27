@@ -2,9 +2,39 @@
 
 Android wear watchface
 
-# Screen 
+# Screen
 
 ![alt tag](http://i62.tinypic.com/qx9sfk.png)
+
+# Usage
+
+You can define values on you XML file or you can make it programmatically. We have 5 values to customize
+our player view.
+
+
+```java
+mpv = (MaterialMusicPlayerView) findViewById(R.id.mpv);
+```
+
+```buttonColor```  play/pause button background.
+```progressEmptyColor``` progress bar color(Left Seconds)
+```progressLoadedColor``` progress bar color(Passed Seconds)
+```textColor``` music minutes(Left and passed time) color
+```textSize``` music minutes(Left and passed time) size
+
+## XML Usage
+
+```xml
+<androgeek.material.library.MaterialMusicPlayerView
+        android:id="@+id/mpv"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        app:textSize = "14sp"
+        app:textColor = "#80FFFFFF"
+        app:buttonColor = "#FF0028"
+        app:progressLoadedColor = "#00815E"
+        app:progressEmptyColor = "#20FFFFFF"
+        app:cover = "@drawable/mycover"/>
 
 # Libraries Used
 
