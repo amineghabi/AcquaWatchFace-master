@@ -12,7 +12,7 @@ You can define values on you XML file or you can make it programmatically. We ha
 our player view.
 
 
-```java
+# java
 mpv = (MaterialMusicPlayerView) findViewById(R.id.mpv);
 ```
 
