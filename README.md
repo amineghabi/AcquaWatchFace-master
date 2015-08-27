@@ -1,5 +1,7 @@
 # AcquaWatchFace
 
+Android wear watchface  
+
 ![alt tag](http://i62.tinypic.com/qx9sfk.png)
 
 # Libraries Used
