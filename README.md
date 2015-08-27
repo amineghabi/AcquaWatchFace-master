@@ -15,6 +15,7 @@ You define the AcquaView on you XML file and you get it programmatically.
 @Bind(R.id.acqua_view) AcquaView view;
 ```
 
+You should not forget to inject view in your Activity by adding this line ```ButterKnife.bind(this);``` .
 
 ## XML Usage
 
