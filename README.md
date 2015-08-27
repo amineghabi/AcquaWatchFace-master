@@ -14,17 +14,9 @@ our player view.
 
 # java
 mpv = (MaterialMusicPlayerView) findViewById(R.id.mpv);
-```
-
-```buttonColor```  play/pause button background.
-```progressEmptyColor``` progress bar color(Left Seconds)
-```progressLoadedColor``` progress bar color(Passed Seconds)
-```textColor``` music minutes(Left and passed time) color
-```textSize``` music minutes(Left and passed time) size
 
 ## XML Usage
 
-```xml
 <androgeek.material.library.MaterialMusicPlayerView
         android:id="@+id/mpv"
         android:layout_width="250dp"
