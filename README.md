@@ -13,20 +13,13 @@ our player view.
 
 
 # java
-mpv = (MaterialMusicPlayerView) findViewById(R.id.mpv);
+ @Bind(R.id.water_view) AcquaView view;
 
 ## XML Usage
-
-<androgeek.material.library.MaterialMusicPlayerView
-        android:id="@+id/mpv"
-        android:layout_width="250dp"
-        android:layout_height="250dp"
-        app:textSize = "14sp"
-        app:textColor = "#80FFFFFF"
-        app:buttonColor = "#FF0028"
-        app:progressLoadedColor = "#00815E"
-        app:progressEmptyColor = "#20FFFFFF"
-        app:cover = "@drawable/mycover"/>
+<tn.amineghabi.acquawatchface.AcquaView
+        android:id="@+id/water_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 
 # Libraries Used
 
