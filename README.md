@@ -4,7 +4,7 @@
 
 # Libraries Used
 
-[Picasso by Square](http://square.github.io/picasso/)
+[Butterknife Dependency Injection](https://github.com/JakeWharton/butterknife)
 
 # Design Owner
 
