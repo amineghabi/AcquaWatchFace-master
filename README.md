@@ -8,8 +8,7 @@ Android wear watchface
 
 # Usage
 
-You can define values on you XML file or you can make it programmatically. We have 5 values to customize
-our player view.
+You define the AcquaView on you XML file and you get it programmatically.
 
 
 # java
